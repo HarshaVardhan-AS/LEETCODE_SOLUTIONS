@@ -29,6 +29,7 @@ A daily LeetCode solutions tracker.
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -38,9 +39,14 @@ A daily LeetCode solutions tracker.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
