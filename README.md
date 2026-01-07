@@ -8,6 +8,7 @@ A daily LeetCode solutions tracker.
 | ------- |
 | [0001-two-sum](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
@@ -23,6 +24,7 @@ A daily LeetCode solutions tracker.
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0283-move-zeroes) |
 ## Math
@@ -44,6 +46,7 @@ A daily LeetCode solutions tracker.
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 ## Recursion
 |  |
