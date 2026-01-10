@@ -9,6 +9,7 @@ A daily LeetCode solutions tracker.
 | [0001-two-sum](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
@@ -42,6 +43,7 @@ A daily LeetCode solutions tracker.
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
@@ -90,5 +92,6 @@ A daily LeetCode solutions tracker.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
