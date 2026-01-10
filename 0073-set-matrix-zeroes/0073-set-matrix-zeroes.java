@@ -6,12 +6,16 @@ class Solution {
         boolean firstcolumn = false;
         int i, j;
         for(i = 0; i<cols; i++){
-            if(matrix[0][i] == 0)
+            if(matrix[0][i] == 0){
             firstrow = true;
+            break;
+            }
         }
         for(i = 0; i<rows; i++){
-            if(matrix[i][0] == 0)
+            if(matrix[i][0] == 0){
             firstcolumn = true;
+            break;
+            }
         }
         for(i = 1; i<rows; i++){
             for(j = 1; j<cols; j++){
