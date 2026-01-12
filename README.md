@@ -9,6 +9,7 @@ A daily LeetCode solutions tracker.
 | [0001-two-sum](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0031-next-permutation) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
@@ -55,6 +56,7 @@ A daily LeetCode solutions tracker.
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0704-binary-search) |
