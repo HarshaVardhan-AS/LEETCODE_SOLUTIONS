@@ -21,7 +21,7 @@ class Solution {
                     low = mid+1;
                 }
                 else
-                high = mid-2;
+                high = mid-1;
             }
         }
         return nums[low];
