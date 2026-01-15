@@ -58,6 +58,7 @@ A daily LeetCode solutions tracker.
 | [0189-rotate-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
+| [1903-largest-odd-number-in-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -123,8 +124,13 @@ A daily LeetCode solutions tracker.
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
