@@ -117,4 +117,12 @@ A daily LeetCode solutions tracker.
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
+## String
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1021-remove-outermost-parentheses) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
