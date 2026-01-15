@@ -22,8 +22,8 @@ class Solution {
                sb.append(s.charAt(i));
             }
         }
-        String res = sb.toString();
-        return res;
+        
+        return sb.toString();
         
     }
 }
