@@ -132,11 +132,13 @@ A daily LeetCode solutions tracker.
 | [0242-valid-anagram](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0796-rotate-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1903-largest-odd-number-in-string) |
 ## Stack
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Greedy
 |  |
 | ------- |
