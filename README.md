@@ -14,6 +14,7 @@ A daily LeetCode solutions tracker.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
@@ -37,6 +38,7 @@ A daily LeetCode solutions tracker.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
@@ -83,6 +85,7 @@ A daily LeetCode solutions tracker.
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
@@ -130,6 +133,7 @@ A daily LeetCode solutions tracker.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
