@@ -18,9 +18,10 @@ class Solution {
                 v++;
             else if((!Character.isDigit(ch)) && (ch!=' '))
                 c++;
-            if(c>0)
-                score = (int)Math.floor(v/c);
+            
         }
+        if(c>0)
+        score = v/c;
         return score;
         
     }
