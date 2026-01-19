@@ -134,6 +134,7 @@ A daily LeetCode solutions tracker.
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0049-group-anagrams) |
