@@ -38,6 +38,7 @@ A daily LeetCode solutions tracker.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0128-longest-consecutive-sequence) |
@@ -60,6 +61,7 @@ A daily LeetCode solutions tracker.
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
@@ -132,6 +134,7 @@ A daily LeetCode solutions tracker.
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
