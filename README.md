@@ -177,4 +177,8 @@ A daily LeetCode solutions tracker.
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
