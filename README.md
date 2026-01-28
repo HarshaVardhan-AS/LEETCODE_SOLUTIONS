@@ -99,6 +99,7 @@ A daily LeetCode solutions tracker.
 | [0136-single-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Sorting
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A daily LeetCode solutions tracker.
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1903-largest-odd-number-in-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1903-largest-odd-number-in-string) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Stack
 |  |
 | ------- |
@@ -210,4 +212,8 @@ A daily LeetCode solutions tracker.
 | [0328-odd-even-linked-list](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0328-odd-even-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
