@@ -81,6 +81,7 @@ A daily LeetCode solutions tracker.
 | [0189-rotate-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0342-power-of-four) |
 | [1903-largest-odd-number-in-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1922-count-good-numbers) |
@@ -121,6 +122,7 @@ A daily LeetCode solutions tracker.
 | [0206-reverse-linked-list](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0342-power-of-four) |
 | [1922-count-good-numbers](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1922-count-good-numbers) |
 ## Divide and Conquer
