@@ -154,6 +154,7 @@ A daily LeetCode solutions tracker.
 | [0022-generate-parentheses](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
@@ -184,6 +185,7 @@ A daily LeetCode solutions tracker.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0049-group-anagrams) |
+| [0131-palindrome-partitioning](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
@@ -243,6 +245,7 @@ A daily LeetCode solutions tracker.
 | [0040-combination-sum-ii](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0216-combination-sum-iii) |
 | [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Memoization
