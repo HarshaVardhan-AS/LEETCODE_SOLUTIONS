@@ -22,6 +22,7 @@ A daily LeetCode solutions tracker.
 | [0073-set-matrix-zeroes](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0090-subsets-ii) |
@@ -171,6 +172,7 @@ A daily LeetCode solutions tracker.
 | [0048-rotate-image](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0079-word-search) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A daily LeetCode solutions tracker.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0205-isomorphic-strings) |
@@ -244,6 +247,7 @@ A daily LeetCode solutions tracker.
 | [0039-combination-sum](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0216-combination-sum-iii) |
@@ -252,4 +256,8 @@ A daily LeetCode solutions tracker.
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0509-fibonacci-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
