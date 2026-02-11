@@ -42,6 +42,7 @@ A daily LeetCode solutions tracker.
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0704-binary-search) |
+| [0904-fruit-into-baskets](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -64,6 +65,7 @@ A daily LeetCode solutions tracker.
 | [0268-missing-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
@@ -275,5 +277,6 @@ A daily LeetCode solutions tracker.
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
