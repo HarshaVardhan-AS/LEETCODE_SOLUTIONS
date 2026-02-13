@@ -45,6 +45,7 @@ A daily LeetCode solutions tracker.
 | [0904-fruit-into-baskets](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -69,6 +70,7 @@ A daily LeetCode solutions tracker.
 | [0560-subarray-sum-equals-k](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
+| [1248-count-number-of-nice-subarrays](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
 |  |
@@ -102,6 +104,7 @@ A daily LeetCode solutions tracker.
 | [0326-power-of-three](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0509-fibonacci-number) |
+| [1248-count-number-of-nice-subarrays](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1922-count-good-numbers) |
 ## Binary Search
@@ -193,6 +196,7 @@ A daily LeetCode solutions tracker.
 | [0560-subarray-sum-equals-k](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 ## String
 |  |
 | ------- |
@@ -286,4 +290,5 @@ A daily LeetCode solutions tracker.
 | [0904-fruit-into-baskets](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
+| [1248-count-number-of-nice-subarrays](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
