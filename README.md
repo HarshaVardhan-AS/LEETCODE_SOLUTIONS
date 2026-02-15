@@ -66,6 +66,7 @@ A daily LeetCode solutions tracker.
 | [0205-isomorphic-strings](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
@@ -160,6 +161,7 @@ A daily LeetCode solutions tracker.
 | ------- |
 | [0053-maximum-subarray](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Counting
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A daily LeetCode solutions tracker.
 | [0151-reverse-words-in-a-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0796-rotate-string) |
@@ -290,6 +293,7 @@ A daily LeetCode solutions tracker.
 ## Sliding Window
 |  |
 | ------- |
+| [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
