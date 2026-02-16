@@ -108,6 +108,7 @@ A daily LeetCode solutions tracker.
 | [0268-missing-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0342-power-of-four) |
+| [0367-valid-perfect-square](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1903-largest-odd-number-in-string) |
@@ -122,6 +123,7 @@ A daily LeetCode solutions tracker.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
+| [0367-valid-perfect-square](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
