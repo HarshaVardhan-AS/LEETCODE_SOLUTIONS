@@ -238,6 +238,7 @@ A daily LeetCode solutions tracker.
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [1021-remove-outermost-parentheses](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -310,4 +311,12 @@ A daily LeetCode solutions tracker.
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
