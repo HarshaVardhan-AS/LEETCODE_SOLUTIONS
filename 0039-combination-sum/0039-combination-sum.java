@@ -8,18 +8,21 @@ class Solution {
         
     }
     public static void solve(int idx, int[] arr, int target, List<List<Integer>> res, List<Integer> temp){
-        if(target == 0){
-            res.add(new ArrayList<>(temp));
-            return;
-        }
-        if(idx == arr.length)
+       if(target == 0){
+        res.add(new ArrayList<>(temp));
         return;
-        if(arr[idx]<=target){
+       }
+       else if(idx == arr.length)
+       return;
+       
+        else if(arr[idx]<=target){
             temp.add(arr[idx]);
             solve(idx, arr, target-arr[idx], res, temp);
             temp.remove(temp.size()-1);
         }
         solve(idx+1, arr, target, res, temp);
+
+
+       }
     }
        
-}
