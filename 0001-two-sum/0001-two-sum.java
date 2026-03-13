@@ -1,6 +1,6 @@
 class Solution {
     public int[] twoSum(int[] nums, int target) {
-        HashMap<Integer, Integer> ind = new HashMap<>();
+        HashMap<Integer, Integer> ind = new HashMap<>(); //hashmap to store numbers already encountered 
         int n = nums.length;
         int[] res = new int[2];
         for(int i = 0; i<n; i++){
