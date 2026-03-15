@@ -18,7 +18,8 @@ class Solution {
         for(int right = w; right<n; right++){
             arr2[s.charAt(right)- 'a']++;
             arr2[s.charAt(left) - 'a']--;
-            left++;
+            left++; /*once we delete left element the start of next potential
+            anagram is at left+1*/
             if(Arrays.equals(arr1, arr2))
             res.add(left);
             
