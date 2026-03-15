@@ -5,17 +5,15 @@ class Solution {
         int n = s.length();
        int[] arr = new int[26];
        int mostfreq = 0;
-       for(int right = 0; right <n; right++){
-        int index = s.charAt(right) - 'A';
-        arr[index]++;
-        mostfreq = Math.max(mostfreq, arr[index]);
-        int length = right - left +1;
-        if(length > k + mostfreq){
-        arr[s.charAt(left) - 'A']--;
-        left++;
+      for(int right = 0; right<n; right++){
+        arr[s.charAt(right) - 'A']++;
+        mostfreq = Math.max(mostfreq, arr[s.charAt(right) - 'A']);
+        while(right - left + 1 > mostfreq + k){
+            arr[s.charAt(left) - 'A']--;
+            left++;
         }
-        maxlen = Math.max(maxlen, right - left +1);
-       }
-       return maxlen;
+        maxlen = Math.max(maxlen, right-left+1);
+      }
+      return maxlen;
     }
 }
