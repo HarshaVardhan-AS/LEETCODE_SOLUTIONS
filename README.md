@@ -72,6 +72,7 @@ A daily LeetCode solutions tracker.
 | [0268-missing-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
@@ -231,6 +232,7 @@ A daily LeetCode solutions tracker.
 | [0242-valid-anagram](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0796-rotate-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1021-remove-outermost-parentheses) |
@@ -313,6 +315,7 @@ A daily LeetCode solutions tracker.
 | ------- |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0904-fruit-into-baskets](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0992-subarrays-with-k-different-integers) |
