@@ -6,10 +6,7 @@ class Solution {
         HashMap<Integer, Integer> map = new HashMap<>();
         int[] res1 = new int[n2];
         for(int i = n2 - 1; i>=0; i--){
-            if(st.isEmpty()){
-                map.put(nums2[i], -1);
-            }
-            else{
+            
                 while(!st.isEmpty() && st.peek() <= nums2[i])
                 st.pop();
                 if(st.isEmpty())
@@ -17,7 +14,7 @@ class Solution {
                 else
                 map.put(nums2[i], st.peek());
             
-            }
+            
             st.push(nums2[i]);
             
         }
