@@ -22,6 +22,7 @@ A daily LeetCode solutions tracker.
 | [0051-n-queens](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0078-subsets) |
@@ -153,6 +154,7 @@ A daily LeetCode solutions tracker.
 | ------- |
 | [0015-3sum](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
