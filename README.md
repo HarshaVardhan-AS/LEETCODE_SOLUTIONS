@@ -40,6 +40,7 @@ A daily LeetCode solutions tracker.
 | [0216-combination-sum-iii](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0216-combination-sum-iii) |
 | [0268-missing-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0503-next-greater-element-ii) |
@@ -72,6 +73,7 @@ A daily LeetCode solutions tracker.
 | [0205-isomorphic-strings](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -157,6 +159,7 @@ A daily LeetCode solutions tracker.
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 ## Recursion
 |  |
@@ -176,11 +179,13 @@ A daily LeetCode solutions tracker.
 | [0053-maximum-subarray](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -274,10 +279,12 @@ A daily LeetCode solutions tracker.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 ## Bucket Sort
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 ## Linked List
 |  |
@@ -350,4 +357,5 @@ A daily LeetCode solutions tracker.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
