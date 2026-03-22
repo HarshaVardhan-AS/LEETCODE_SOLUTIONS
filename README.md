@@ -42,6 +42,7 @@ A daily LeetCode solutions tracker.
 | [0268-missing-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0503-next-greater-element-ii) |
@@ -162,6 +163,7 @@ A daily LeetCode solutions tracker.
 | [0242-valid-anagram](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
+| [0435-non-overlapping-intervals](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 ## Recursion
 |  |
@@ -199,6 +201,7 @@ A daily LeetCode solutions tracker.
 | [0053-maximum-subarray](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0131-palindrome-partitioning) |
+| [0435-non-overlapping-intervals](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0509-fibonacci-number) |
 ## Simulation
 |  |
@@ -268,6 +271,7 @@ A daily LeetCode solutions tracker.
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [1903-largest-odd-number-in-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
