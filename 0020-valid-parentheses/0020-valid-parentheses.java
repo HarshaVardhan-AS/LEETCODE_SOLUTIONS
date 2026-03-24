@@ -3,28 +3,28 @@ class Solution {
         Stack<Character> st = new Stack<>();
         int n = s.length();
         for(int i = 0; i<n; i++){
-            if(s.charAt(i) == '(' ||s.charAt(i) == '{' || s.charAt(i) == '[' )
+            if(s.charAt(i) == '(' || s.charAt(i) == '{' || s.charAt(i) == '[')
             st.push(s.charAt(i));
-            else if(s.charAt(i) == ')' ){
+            else if(s.charAt(i) == ')'){
                 if(st.isEmpty())
                 return false;
                 else if(st.peek()!= '(')
                 return false;
                 st.pop();
             }
-             else if(s.charAt(i) == '}' ){
+             else if(s.charAt(i) == '}'){
                 if(st.isEmpty())
                 return false;
                 else if(st.peek()!= '{')
                 return false;
                 st.pop();
             }
-             else if(s.charAt(i) == ']' ){
+             else if(s.charAt(i) == ']'){
                 if(st.isEmpty())
                 return false;
                 else if(st.peek()!= '[')
                 return false;
-                st.pop();     
+                st.pop();
             }
         }
         if(!st.isEmpty())
