@@ -56,6 +56,7 @@ A daily LeetCode solutions tracker.
 | [1004-max-consecutive-ones-iii](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1710-maximum-units-on-a-truck](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Hash Table
@@ -168,6 +169,7 @@ A daily LeetCode solutions tracker.
 | [0347-top-k-frequent-elements](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
+| [1710-maximum-units-on-a-truck](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1710-maximum-units-on-a-truck) |
 ## Recursion
 |  |
 | ------- |
@@ -275,6 +277,7 @@ A daily LeetCode solutions tracker.
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
+| [1710-maximum-units-on-a-truck](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
