@@ -42,6 +42,7 @@ A daily LeetCode solutions tracker.
 | [0268-missing-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0496-next-greater-element-i) |
@@ -78,6 +79,7 @@ A daily LeetCode solutions tracker.
 | [0242-valid-anagram](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
@@ -109,6 +111,7 @@ A daily LeetCode solutions tracker.
 | [0202-happy-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0876-middle-of-the-linked-list](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -140,6 +143,7 @@ A daily LeetCode solutions tracker.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0704-binary-search) |
@@ -168,6 +172,7 @@ A daily LeetCode solutions tracker.
 | [0242-valid-anagram](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1710-maximum-units-on-a-truck) |
