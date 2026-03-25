@@ -78,6 +78,7 @@ A daily LeetCode solutions tracker.
 | [0242-valid-anagram](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -195,6 +196,7 @@ A daily LeetCode solutions tracker.
 | ------- |
 | [0169-majority-element](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -249,6 +251,7 @@ A daily LeetCode solutions tracker.
 | [0151-reverse-words-in-a-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 | [0395-longest-substring-with-at-least-k-repeating-characters](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0395-longest-substring-with-at-least-k-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -359,6 +362,7 @@ A daily LeetCode solutions tracker.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0387-first-unique-character-in-a-string) |
 ## Monotonic Stack
 |  |
 | ------- |
