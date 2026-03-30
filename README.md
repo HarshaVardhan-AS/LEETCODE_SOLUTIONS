@@ -56,6 +56,7 @@ A daily LeetCode solutions tracker.
 | [0992-subarrays-with-k-different-integers](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1710-maximum-units-on-a-truck](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -92,6 +93,7 @@ A daily LeetCode solutions tracker.
 | [0930-binary-subarrays-with-sum](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0992-subarrays-with-k-different-integers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
+| [1331-rank-transform-of-an-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Two Pointers
@@ -176,6 +178,7 @@ A daily LeetCode solutions tracker.
 | [0349-intersection-of-two-arrays](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0451-sort-characters-by-frequency](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0451-sort-characters-by-frequency) |
+| [1331-rank-transform-of-an-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1710-maximum-units-on-a-truck) |
 ## Recursion
 |  |
