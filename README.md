@@ -51,6 +51,7 @@ A daily LeetCode solutions tracker.
 | [0560-subarray-sum-equals-k](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0739-daily-temperatures) |
+| [0875-koko-eating-bananas](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0992-subarrays-with-k-different-integers) |
@@ -150,6 +151,7 @@ A daily LeetCode solutions tracker.
 | [0367-valid-perfect-square](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0367-valid-perfect-square) |
 | [0540-single-element-in-a-sorted-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0704-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
