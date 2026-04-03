@@ -12,7 +12,7 @@ class Solution {
             int mid = low + (high-low)/2;
             long hours = 0;
             for(int i = 0; i<n; i++){
-                hours+= (int)Math.ceil((double)piles[i]/mid);
+                hours += (piles[i] + mid - 1) / mid;
             }
             if(hours <= h){
                 ans = mid;
