@@ -59,6 +59,7 @@ A daily LeetCode solutions tracker.
 | [1248-count-number-of-nice-subarrays](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1248-count-number-of-nice-subarrays) |
 | [1331-rank-transform-of-an-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1710-maximum-units-on-a-truck](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -153,6 +154,7 @@ A daily LeetCode solutions tracker.
 | [0704-binary-search](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Bit Manipulation
 |  |
 | ------- |
