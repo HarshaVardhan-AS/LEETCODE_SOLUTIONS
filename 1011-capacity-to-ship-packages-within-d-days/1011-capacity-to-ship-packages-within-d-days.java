@@ -12,7 +12,7 @@ class Solution {
         int ans = 0;
         while(low<= high){
             int mid = low + (high-low)/2;
-            int daycount = 0;
+            int daycount = 1;
             int currweight = 0;
             for(i = 0; i<n; i++){
                if(currweight+ weights[i] <= mid){
@@ -23,7 +23,6 @@ class Solution {
                 currweight = weights[i];
                }
             }
-            daycount++;
             if(daycount<= days){
                 ans = mid;
             high = mid-1;
