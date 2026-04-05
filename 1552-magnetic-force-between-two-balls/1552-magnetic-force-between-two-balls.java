@@ -10,7 +10,7 @@ class Solution {
             if(position[i] > max)
             max = position[i];
         }
-        int high = max - low;
+        int high = max - position[0];
         while(low<= high){
             int mid = low + (high-low)/2;
             int ballcount =1;
