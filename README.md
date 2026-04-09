@@ -54,6 +54,7 @@ A daily LeetCode solutions tracker.
 | [0560-subarray-sum-equals-k](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0739-daily-temperatures) |
+| [0860-lemonade-change](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0930-binary-subarrays-with-sum) |
@@ -310,6 +311,7 @@ A daily LeetCode solutions tracker.
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0455-assign-cookies) |
+| [0860-lemonade-change](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0860-lemonade-change) |
 | [1710-maximum-units-on-a-truck](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1710-maximum-units-on-a-truck) |
 | [1903-largest-odd-number-in-string](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
