@@ -6,13 +6,12 @@ class Solution {
         int i;
         int jumps = 0;
         for(i = 0; i<n-1; i++){
-            farthest = Math.max(farthest, i+ nums[i]);
+            farthest = Math.max(farthest, i + nums[i]);
             if(i == currentend){
-                currentend = farthest;
                 jumps++;
+                currentend = farthest;
             }
         }
         return jumps;
-        
     }
 }
