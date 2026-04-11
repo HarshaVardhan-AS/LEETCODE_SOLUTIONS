@@ -10,12 +10,12 @@ class Solution {
             currindex = i;
             if(maxindex >= currindex){
             maxindex = Math.max(maxindex, currindex + nums[i]);  
-            continue;
             }
-            else
-            return false;
         }
+        if(maxindex>=n-1)
         return true;
+        else
+        return false;
         
     }
 }
