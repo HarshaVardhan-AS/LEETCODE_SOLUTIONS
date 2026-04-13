@@ -9,10 +9,14 @@ class Solution {
             return res.toArray(new int[res.size()][]);
         }
         int[] cur = intervals[0];
+        //first add all which END before newInterval STARTS
         while(i<n &&(intervals[i][1] < newInterval[0])){
         res.add(intervals[i]);
         i++;
         }
+        //now we add all which START before newInterval ENDS
+        /*since we now know all intervals end AFTER newInterval ends overlap possible
+        only if current interval STARTS before newInterval ENDS*/
         while(i<n && intervals[i][0] <=newInterval[1] )
         {
             newInterval[0] = Math.min(newInterval[0], intervals[i][0]);
