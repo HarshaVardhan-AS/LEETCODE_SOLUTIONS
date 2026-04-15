@@ -6,19 +6,16 @@ class Solution {
         int left = 0;
         int right = n-1;
         int ans = 0;
-        int i = 0;
-        while((i< n) && (left<=right)){
+        while((left<=right)){
            if(height[left]< height[right]){
                leftmax = Math.max(leftmax, height[left]);
-               ans = ans+ leftmax - height[i];
+               ans = ans+ leftmax - height[left];
                left++;
-               i++;
            }
            else
            {
             rightmax = Math.max(rightmax, height[right]);
-            ans = ans + rightmax - height[i];
-            i++;
+            ans = ans + rightmax - height[right];
             right--;
            }
         }
