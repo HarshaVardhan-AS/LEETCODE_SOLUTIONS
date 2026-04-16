@@ -306,6 +306,7 @@ A daily LeetCode solutions tracker.
 | ------- |
 | [0020-valid-parentheses](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0232-implement-queue-using-stacks) |
@@ -381,6 +382,7 @@ A daily LeetCode solutions tracker.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0079-word-search) |
+| [0144-binary-tree-preorder-traversal](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 ## Sliding Window
 |  |
 | ------- |
@@ -419,4 +421,12 @@ A daily LeetCode solutions tracker.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0347-top-k-frequent-elements) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
