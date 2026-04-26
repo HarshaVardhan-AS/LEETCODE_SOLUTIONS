@@ -444,6 +444,7 @@ A daily LeetCode solutions tracker.
 | [0145-binary-tree-postorder-traversal](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -457,6 +458,7 @@ A daily LeetCode solutions tracker.
 | [0145-binary-tree-postorder-traversal](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0145-binary-tree-postorder-traversal) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0543-diameter-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -467,4 +469,5 @@ A daily LeetCode solutions tracker.
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
