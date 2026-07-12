@@ -8,7 +8,6 @@ class Solution {
         int count = 0;
         for(i = 0; i<n; i++){
             sum+= nums[i];
-            
             int target = sum - k;
             if(map.containsKey(target))
             count+= map.get(target);
