@@ -11,6 +11,6 @@ class Solution {
             else
             high = mid-1;
         }
-        return low + k;
+        return low + k; // remember this trick
     }
 }
