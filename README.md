@@ -69,6 +69,7 @@ A daily LeetCode solutions tracker.
 | [1331-rank-transform-of-an-array](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1552-magnetic-force-between-two-balls) |
 | [1710-maximum-units-on-a-truck](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -170,6 +171,7 @@ A daily LeetCode solutions tracker.
 | [1004-max-consecutive-ones-iii](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1539-kth-missing-positive-number](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/HarshaVardhan-AS/LEETCODE_SOLUTIONS/tree/master/1552-magnetic-force-between-two-balls) |
 ## Bit Manipulation
 |  |
